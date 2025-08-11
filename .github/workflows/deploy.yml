@@ -26,4 +26,4 @@ jobs:
             git pull
             npm install
             npm run build
-            npm run start
+            pm2 restart app || pm2 start npm --name "app" -- start
