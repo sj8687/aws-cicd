@@ -11,7 +11,7 @@ export default function HappyBirthdaySanket() {
 
         <div className="cake" aria-hidden>
           <div className="candle">🕯️</div>
-          <div className="layers">🎂</div>
+          <div className="layerss">🎂</div>
         </div>
 
         <div className="balloons" aria-hidden>
