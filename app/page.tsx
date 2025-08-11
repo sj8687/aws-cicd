@@ -10,7 +10,7 @@ export default function HappyBirthdaySanket() {
           🎉 Happy Birthday, Sanket! 🎉
         </h1>
         <p className="text-lg text-gray-700 mb-6 text-center">
-          Wishing you an awesome day — <span className="font-semibold text-blue-500">15 Aug</span>
+          Wishing you an awesome day BKL mc — <span className="font-semibold text-blue-500">15 Aug</span>
         </p>
 
         {/* Cake */}
