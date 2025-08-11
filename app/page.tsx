@@ -19,6 +19,8 @@ export default function HappyBirthdaySanket() {
           <div className="balloon b2">🎈</div>
           <div className="balloon b3">🎈</div>
           <div className="balloon b4">🎈</div>
+                    <div className="balloon b4">🎈</div>
+
         </div>
 
         <div className="confetti" aria-hidden>
