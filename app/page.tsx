@@ -51,7 +51,7 @@ export default function HappyBirthdaySanket() {
 
         <button
           className="bg-pink-500 hover:bg-pink-600 text-white font-bold py-2 px-6 rounded-full shadow-lg transition-all"
-          onClick={() => alert("Send your wish to Sankett! 🥳")}
+          onClick={() => alert("Send your wish to Sanket! 🥳")}
         >
           Send a wish
         </button>
