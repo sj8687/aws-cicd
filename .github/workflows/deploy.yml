@@ -22,8 +22,8 @@ jobs:
           key: ${{ secrets.PRIVATE_SSH_KEY }}
           port: 22
           script: |
-            cd aws-cicd
-            git pull
-            npm install
-            npm run build
-            npm run start
+            # cd aws-cicd
+            # git pull
+            # npm install
+            # npm run build
+            # npm run start
