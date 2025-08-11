@@ -10,7 +10,7 @@ export default function HappyBirthdaySanket() {
         <p className="subtitle">Wishing you an awesome day — 15 Aug</p>
 
         <div className="cake" aria-hidden>
-          <div className="candle">🕯️</div>
+          <div className="candle">👌🫴</div>
           <div className="layers">🎂</div>
         </div>
 
